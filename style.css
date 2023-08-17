@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  background: blue;
+  padding: 10px;
+}
+.parte1 {
+  background: violet;
+}
+.parte2 {
+  background: blueviolet;
+}
